@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324906958737",
+    "project_id": "rentalumm",
+    "storage_bucket": "rentalumm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324906958737:android:ae5053dc66b296033d2430",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324906958737-1t50s12kqps7h2rb3g4f5skm1fd5hoit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4hUrZjDQVs2ZxYuGuQCPLCdqmF2-BNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324906958737-1t50s12kqps7h2rb3g4f5skm1fd5hoit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
